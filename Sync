@@ -2,8 +2,9 @@
 	"Banner": "",
 	"Latest": {
 		"Launcher": "0.17",
-		"LauncherRelease":
-		"VR": ""
+		"LauncherRelease": {"year": 2022, "month": 7, "day": 27, "hour": 13, "min": 37 },
+		"VR": "",
+		"VRRelease": {"year": 2022, "month": 7, "day": 27, "hour": 13, "min": 37 }
 	},
 	"Changes": {
 		"Versions": {
