@@ -2,4 +2,4 @@ Sync is used to tell the Launcher when something has changed (banner, new versio
 
 SyncDetect is used to detect when to download a new Sync. This saves on bandwidth, for us, and internet connection, for you. It also allows you to check the Sync more frequently.
 
-SyncDetect order to use abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+SyncDetect order to use abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
