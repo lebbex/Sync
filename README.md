@@ -4,4 +4,4 @@ SyncDetect is used to detect when to download a new Sync. This saves on bandwidt
 
 https://lebbex.github.io/Sync/
 
-SyncDetect order to use 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+SyncDetect uses a Base62 number -> 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
