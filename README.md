@@ -4,4 +4,4 @@ SyncDetect is used to detect when to download a new Sync. This saves on bandwidt
 
 https://lebbex.github.io/Sync/
 
-SyncDetect order to use abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+SyncDetect order to use abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()
