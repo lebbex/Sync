@@ -1,23 +1,12 @@
 {
 	"Banner": "",
-	"Latest": {
-		"Launcher": {
-			"version": "1.01.0",
-			"year": 0, 
-			"month": 0, 
-			"day": 0, 
-			"hour": 0
-		},
-		"VR": {
-			"version": "",
-			"year": 0, 
-			"month": 0, 
-			"day": 0, 
-			"hour": 0
-		}
+	"LatestVersion": {
+		"Launcher": "1.01.0",
+		"SG": "indev-23",
+		"VR": ""
 	},
-	"Changes": {
-		"Versions": {
+	"Revisions": {
+		"VersionList": {
 			"Pre-Dev": 0,
 			"Indev": 0
 		}
