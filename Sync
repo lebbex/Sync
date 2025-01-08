@@ -2,8 +2,7 @@
 	"Banner": "",
 	"LatestVersion": {
 		"Launcher": "1.01.0",
-		"SG": "indev-23",
-		"VR": ""
+		"SG": "indev-23"
 	},
 	"Revisions": {
 		"VersionList": {
